@@ -1,8 +1,3 @@
-# aiml-track-resources
-Official learning resources, labs, datasets, and capstone guidelines for the AI &amp; Machine Learning Track.
-
-
-
 # AI & Machine Learning Track
 
 Welcome to the official repository for the **AI & Machine Learning Track**.
