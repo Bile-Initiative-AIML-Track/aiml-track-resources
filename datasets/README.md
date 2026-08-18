@@ -128,7 +128,7 @@ Dataset file:
 ## Repository Structure
 
 ```text
-BILE_ML_Datasets_Repo/
+datsets/
 ├── README.md
 ├── SOURCES.md
 ├── loan_approval/
