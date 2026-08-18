@@ -1,0 +1,31 @@
+# Dataset Sources
+
+## Loan Approval Prediction
+- Packaged from a public GitHub mirror of the common Loan Prediction training dataset.
+- Reference repository: `shrikant-temburwar/Loan-Prediction-Dataset`
+- Original-style target: `Loan_Status` (`Y`/`N`).
+
+## Crop Recommendation System
+- Packaged from a public Hugging Face crop recommendation dataset mirror.
+- Dataset repository: `byFymm/CollegeOfAgricultureAndForestry_Agricultural_Crop_Dataset`
+- License shown by the dataset repository: Creative Commons (`cc`).
+
+## Heart Disease Risk Score
+- Official reference: UCI Machine Learning Repository — Heart Disease (Dataset ID 45).
+- Packaged CSV is a public CSV mirror of the UCI-style dataset.
+- Official UCI task: Classification.
+- Official UCI page reports 303 instances and 13 predictive features in the standard setup.
+- Official UCI license: CC BY 4.0.
+
+## Student Dropout Prediction
+- Official reference: UCI Machine Learning Repository — Predict Students' Dropout and Academic Success (Dataset ID 697).
+- Packaged CSV is a public mirror of that dataset.
+- Official task: three-category classification (`Dropout`, `Enrolled`, `Graduate`).
+- Official UCI page reports 4,424 instances and 36 features.
+- Official UCI license: CC BY 4.0.
+
+## AI Email Phishing Detector
+- Packaged from `zefang-liu/phishing-email-dataset` on Hugging Face.
+- The dataset card states that it is a copy of the Kaggle Phishing Email Detection dataset.
+- Hugging Face dataset card lists license: LGPL-3.0.
+- Dataset contains 18,650 labeled email rows in the packaged copy.
